@@ -1,6 +1,12 @@
-# Tauri + React + Typescript
+# celestia-ui
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+![Preview 1](https://github.com/quertc/celestia-ui/blob/main/1.PNG)
+![Preview 2](https://github.com/quertc/celestia-ui/blob/main/2.PNG)
+![Preview 3](https://github.com/quertc/celestia-ui/blob/main/3.PNG)
+
+## Release
+
+You can download the latest version of the application on Windows, MacOS, or Ubuntu 20.04 in the [**releases**](https://github.com/quertc/celestia-ui/releases) section of this repository.
 
 ## Recommended IDE Setup
 
